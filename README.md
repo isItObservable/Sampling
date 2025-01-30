@@ -3,7 +3,7 @@
 
 ## Episode : Sampling
 This repository contains the files utilized during the tutorial presented in the dedicated IsItObservable episode related to Sampling.
-<p align="center"><img src="/image/logosampling.png.png" width="40%" alt="Sampling Logo" /></p>
+<p align="center"><img src="/image/logosampling.png" width="40%" alt="Sampling Logo" /></p>
 
 this tutorial will also utilize the OpenTelemetry Operator with:
 * the OpenTelemetry Demo
